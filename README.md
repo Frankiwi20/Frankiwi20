@@ -9,7 +9,7 @@ Welcome to my portfolio! Check out my projects and learn more about what I do.
 
 ## Live Site
 
-You can view my live portfolio here: [My Portfolio](https://frankiwi20.github.io/)
+You can view my live portfolio here: [My Portfolio](https://frankiwi20.github.io/PortfolioV2)
 
 <!--## Projects
 
