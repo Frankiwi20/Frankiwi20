@@ -5,9 +5,9 @@
 Welcome to my portfolio! Check out my projects and learn more about what I do.
 
 <!-- Uncomment and add your banner image URL once it's ready -->
-<!-- ![Portfolio Banner](URL_TO_YOUR_BANNER_IMAGE) -->
+ ![Portfolio Banner](https://github.com/Frankiwi20/Frankiwi20/blob/main/kiwi_with_text_larger.jpg) 
 
-## Live Site
+## Live site
 
 You can view my live portfolio here: [My Portfolio](https://frankiwi20.github.io/PortfolioV2)
 
