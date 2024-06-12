@@ -29,6 +29,8 @@ Description of project 2.
 ### Project 3
 Description of project 3.--!>
 
+
+##A bit about me.
 Hello! I'm Frankie Murcia, a passionate developer with experience in modern web technologies. I use Python for back-end development and have strong front-end skills using React, Node.js, and other frameworks. I have also learned Java and C++ in the past. I am a recent graduate from California State University, Dominguez Hills (CSUDH) with a Bachelor of Science in Computer Science. Fluent in Spanish, I'm dedicated to creating equitable and inclusive experiences on the web.
 
 
