@@ -31,3 +31,14 @@ I'm excited to connect and explore how I can contribute my expertise in computer
 
 Feel free to contact me.
 Email:fmurcia1@toromail.csudh.edu
+
+
+## Languages:
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+
