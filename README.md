@@ -33,6 +33,7 @@ Feel free to contact me.
 Email:fmurcia1@toromail.csudh.edu
 
 
+
 ## Languages:
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
@@ -41,4 +42,6 @@ Email:fmurcia1@toromail.csudh.edu
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+
+
 
