@@ -8,14 +8,15 @@ Welcome to my page! Check out my projects and learn more about what I do.
 
 ## You can view my live portfolio here: (https://frankiwi20.github.io/PortfolioV2
 
-## Languages:
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+
+## Languages I Use:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 <!--## Projects
 
