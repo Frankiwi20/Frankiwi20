@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-# My Portfolio
 
-Welcome to my portfolio! Check out my projects and learn more about what I do.
+Welcome to my page! Check out my projects and learn more about what I do.
 
 <!-- Uncomment and add your banner image URL once it's ready -->
  ![Portfolio Banner](https://github.com/Frankiwi20/Frankiwi20/blob/main/kiwi_with_text_larger.jpg) 
