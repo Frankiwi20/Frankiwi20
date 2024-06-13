@@ -3,7 +3,7 @@
 Welcome to my page! Check out my projects and learn more about what I do.
 
 <!-- Uncomment and add your banner image URL once it's ready -->
-![Portfolio Banner](https://github.com/Frankiwi20/Frankiwi20/blob/main/kiwi_with_text_larger.jpg)
+![Portfolio Banner]https://github.com/Frankiwi20/Frankiwi20/blob/main/github-header-image.png
 
 ## You can view my live portfolio here: [PortfolioV2](https://frankiwi20.github.io/PortfolioV2)
 
