@@ -2,7 +2,7 @@
 
 Welcome to my page! Check out my projects and learn more about what I do.
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Frankiwi20.Frankiwi20)
+![Visitor Count](https://visits.dorenprobst.dev/Frankiwi20/Frankiwi20)
 ![Portfolio Banner](https://github.com/Frankiwi20/Frankiwi20/blob/main/github-header-image%20(2).png)
 
 ## You can view my live portfolio here: [PortfolioV2](https://frankiwi20.github.io/PortfolioV2)
