@@ -12,6 +12,8 @@ Welcome to my page! Check out my projects and learn more about what I do.
 
 ## You can view my live portfolio here: [PortfolioV2](https://frankiwi20.github.io/PortfolioV2)
 
+## Check out my E-commerce platform project: [E-commerce Platform](https://frankiwi20.github.io/E-commerce-Platform)
+
 ## Languages I Use:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
