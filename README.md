@@ -14,6 +14,8 @@ Welcome to my page! Check out my projects and learn more about what I do.
 
 ## Check out my E-commerce platform project: [E-commerce Platform](https://frankiwi20.github.io/E-commerce-Platform)
 
+## Explore the Techno Maya website: [Techno Maya](https://frankiwi20.github.io/Techno-Maya)
+
 ## Languages I Use:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
